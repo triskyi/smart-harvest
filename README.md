@@ -10,7 +10,7 @@ Welcome to SmartHarvest App, your go-to destination for plant care and disease d
 
 ## How to Use
 
-1. 🌐 Visit our [website](https://www.SmartHarvest.com) in future .
+1. 🌐 Visit our [website]( https://triskyi.github.io/smart-harvest/) in future .
 2. 📱 Download our app for on-the-go plant care.
 3. 🚀 Developers, explore our APIs and documentation.
 
