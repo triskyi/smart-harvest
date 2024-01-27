@@ -1,6 +1,6 @@
-# 🌱 LeafLover's Paradise 🌿
+# 🌱 SmartHarvest 🌿
 
-Welcome to LeafLover's Paradise, your go-to destination for plant care and disease detection! 🌼🚀
+Welcome to SmartHarvest App, your go-to destination for plant care and disease detection! 🌼🚀
 
 ## Features
 
